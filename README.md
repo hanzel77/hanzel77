@@ -1,4 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hanzel Oclihar Tjiam============================================================================================================================================Fullstack Web Developer-----------------------* 🌍  I'm based in Indonesia* ✉️  You can contact me at [hhanzel0810@gmail.com](mailto:hhanzel0810@gmail.com)* 🧠  I'm learning React
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hanzel Oclihar Tjiam
+============================================================================================================================================
+
+Fullstack Web Developer
+-----------------------
+
+*   🌍  I'm based in Indonesia
+*   ✉️  You can contact me at [hhanzel0810@gmail.com](mailto:hhanzel0810@gmail.com)
+*   🧠  I'm learning React
 
 ### Skills
 
